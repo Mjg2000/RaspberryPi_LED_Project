@@ -32,8 +32,8 @@ The Pi 5 captures, processes, and sends raw 64×64×3-byte RGB frames (12,288 by
 
 | Component | Role |
 |---|---|
-| Raspberry Pi Zero 2 W ("GrantPi") | Display node that drives the LED matrix |
-| Raspberry Pi 5 ("GrantPi5") | Vision node that captures and processes the camera feed |
+| Raspberry Pi Zero 2 W  | Display node that drives the LED matrix |
+| Raspberry Pi 5  | Vision node that captures and processes the camera feed |
 | Raspberry Pi Camera Module 3 (IMX708) | Video source, attached to the Pi 5 |
 | 64×64 RGB LED matrix panel (HUB75) | Output display |
 | Triple-output HUB75 RGB Matrix Active-3 Bonnet | Interface between the Pi's GPIO and the panel |
